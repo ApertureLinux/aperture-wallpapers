@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+      <name>Aperture Blue/Orange</name>
+      <filename>/usr/share/backgrounds/aperturelinux/aperture_blue_orange.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Aperture Blue</name>
+      <filename>/usr/share/backgrounds/aperturelinux/aperture_blue.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Aperture Gray</name>
+      <filename>/usr/share/backgrounds/aperturelinux/aperture_gray.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Aperture Rainbow</name>
+      <filename>/usr/share/backgrounds/aperturelinux/aperture_rainbow.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Aperture Linux Dark</name>
+      <filename>/usr/share/backgrounds/aperturelinux/logo_dark.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Aperture Linux Light</name>
+      <filename>/usr/share/backgrounds/aperturelinux/logo_light.png</filename>
+    </wallpaper>
+</wallpapers>
